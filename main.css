@@ -1,0 +1,17 @@
+nav {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: dotted;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  list-style-type: none;
+}
+li {
+  text-decoration: none;
+  list-style-type: none;
+  padding: 10px;
+}
